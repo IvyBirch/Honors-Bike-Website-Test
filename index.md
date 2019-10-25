@@ -18,4 +18,4 @@ Demographics:
 *Note: Information Sourced from Wikipedia, Google Maps, and Social Explorer*
 
 
-<script src="https://embed.github.com/view/geojson/IvyBirch/honorsbike/master/map-2.geojson"></script>
+<script src="https://embed.github.com/view/geojson/IvyBirch/honorsbike/master/map-2.geojson" ></script>
