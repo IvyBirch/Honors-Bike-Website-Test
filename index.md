@@ -15,6 +15,7 @@ Demographics:
 - .4% Asian
 - .8% Other
 - 72.3% Hispanic/Latinax
+
 *Note: Information Sourced from Wikipedia, Google Maps, and Social Explorer*
 
 
