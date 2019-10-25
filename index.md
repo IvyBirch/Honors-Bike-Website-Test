@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+### Mott Haven
 
-You can use the [editor on GitHub](https://github.com/IvyBirch/Honors-Bike-Website-Test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Zip Code: 10451, 10454, 10455
+- Distance to Federal Hall: 10.7 Miles
+- Distance to Empire State Building: 7.4 Miles
+- Census Tracts: 19, 23, 25, 27, 31, 33, 35, 37, 39, 43, 51, 63, 65
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Demographics:
+- Population: 52,413
+- 1.7% White
+- 24.7% African American
+- .2% Native American
+- .4% Asian
+- .8% Other
+- 72.3% Hispanic/Latinax
+*Note: Information Sourced from Wikipedia, Google Maps, and Social Explorer*
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IvyBirch/Honors-Bike-Website-Test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<script scr="https://embed.github.com/view/geojson/IvyBirch/honorsbike/master/map-2.geojson"></script>
