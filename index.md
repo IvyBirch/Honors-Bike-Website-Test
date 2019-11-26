@@ -20,3 +20,20 @@ Demographics:
 
 
 <script src="https://embed.github.com/view/geojson/IvyBirch/honorsbike/master/map-2.geojson" ></script>
+
+
+
+Location Justifications:
+
+
+- Lower segment of the neighborhood is generally not given citi bike stations since those areas are primarily rail yards.
+
+- Stations placed along or just off major Aveneues and streets whenever possible, especially 3rd ave.
+
+- Stations placed adjacent or within view of train stations whenever possible.
+
+- Stations placed along parks and green spaces.
+
+- Stations placed opposite hospital to allow employees ease of transportation.
+
+- Stations not placed along the expressways, since biking on an expressway is an incredibly bad and probably illegal idea.
