@@ -11,7 +11,7 @@
 - Distance to Empire State Building: 7.4 Miles
 - Census Tracts: 19, 23, 25, 27, 31, 33, 35, 37, 39, 43, 51, 63, 65
 
-![Highlight](https://github.com/IvyBirch/Honors-Bike-Website-Test/blob/master/mott%20haven%20highlight.pdf)
+![Highlight](https://github.com/IvyBirch/Honors-Bike-Website-Test/blob/master/Screen%20Shot%202019-12-06%20at%2012.14.25%20AM.png)
 
 
 Demographics:
