@@ -1,6 +1,8 @@
 ### Mott Haven
 
-<script src="https://embed.github.com/view/pdf/IvyBirch/Honors-Bike-Website-Test/master/mott haven highlight.pdf" ></script>
+
+![Grided](https://ivybirch.github.com/honors-bike-website-test/grided.jpeg)
+
 
 
 
