@@ -1,7 +1,7 @@
 ### Mott Haven
 
 
-![Grided](https://ivybirch.github.com/honors-bike-website-test/grided.jpeg)
+![Grided](https://github.com/IvyBirch/Honors-Bike-Website-Test/blob/master/grided.jpeg)
 
 
 
@@ -11,7 +11,7 @@
 - Distance to Empire State Building: 7.4 Miles
 - Census Tracts: 19, 23, 25, 27, 31, 33, 35, 37, 39, 43, 51, 63, 65
 
-<script src="https://embed.github.com/view/jpeg/IvyBirch/Honors-Bike-Website-Test/master/grided.jpeg" ></script>
+![Highlight](https://github.com/IvyBirch/Honors-Bike-Website-Test/blob/master/mott%20haven%20highlight.pdf)
 
 
 Demographics:
