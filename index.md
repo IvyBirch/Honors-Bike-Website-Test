@@ -1,5 +1,8 @@
 ### Mott Haven
 
+<script src="https://embed.github.com/view/geojson/IvyBirch/Honors-Bike-Website-Test/master/mott haven highlight.pdf" ></script>
+
+
 
 - Zip Code: 10451, 10454, 10455
 - Distance to Federal Hall: 10.7 Miles
@@ -26,7 +29,6 @@ Demographics:
 Location Justifications:
 
 
-- Lower segment of the neighborhood is generally not given citi bike stations since those areas are primarily rail yards.
 
 - Stations placed along or just off major Aveneues and streets whenever possible, especially 3rd ave.
 
@@ -37,3 +39,15 @@ Location Justifications:
 - Stations placed opposite hospital to allow employees ease of transportation.
 
 - Stations not placed along the expressways, since biking on an expressway is an incredibly bad and probably illegal idea.
+
+
+
+Uses of Citi Bike:
+- Mott Haven has minimal public transport, with only a single train line accessible. Bikes allow for easier movement towards other transport option, hence the extensive placing of bike racks near public transport pick up/dropoff points.
+
+- Citi bike provides for cheap transportation in an area that struggles with poverty. 
+
+
+
+
+
