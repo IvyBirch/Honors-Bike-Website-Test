@@ -1,6 +1,6 @@
 ### Mott Haven
 
-<script src="https://embed.github.com/view/geojson/IvyBirch/Honors-Bike-Website-Test/master/mott haven highlight.pdf" ></script>
+<script src="https://embed.github.com/view/pdf/IvyBirch/Honors-Bike-Website-Test/master/mott haven highlight.pdf" ></script>
 
 
 
@@ -8,6 +8,8 @@
 - Distance to Federal Hall: 10.7 Miles
 - Distance to Empire State Building: 7.4 Miles
 - Census Tracts: 19, 23, 25, 27, 31, 33, 35, 37, 39, 43, 51, 63, 65
+
+<script src="https://embed.github.com/view/jpeg/IvyBirch/Honors-Bike-Website-Test/master/grided.jpeg" ></script>
 
 
 Demographics:
